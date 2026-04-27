@@ -55,12 +55,12 @@ streamlit run app.py
 
 ## 🎥 Demo Video
 
-(Will be added here)
+[(Will be added here)](https://drive.google.com/drive/folders/1rYLeNbqk488zhazw8_o9AhPcf9FjYL3Q?usp=sharing)
 
 
 ## 📸 Output Preview
 
-(Will add screenshots here)
+[(Will add screenshots here)](https://drive.google.com/drive/folders/1rYLeNbqk488zhazw8_o9AhPcf9FjYL3Q?usp=sharing)
 
 
 ## 💡 Why I Built This
